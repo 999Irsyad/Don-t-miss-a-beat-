@@ -4,7 +4,7 @@
 
 This is game project i play in free time
 
-### How to Use It
+### How to play it
 
 Arrow Keys - Press the matching arrow key when the falling tile touches the target! Click the arrow key targets if on MOBILE!
 
